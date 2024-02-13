@@ -16,11 +16,11 @@ Expense Tracker App is a simple web application designed to help users track the
 
 **Instructions:**
 
-+Select a category from the dropdown list.
-+Enter the amount of the expense in numerical format.
-+Choose the date of the expense using the date picker.
-+Click the "Add" button to add the expense to the list.
-+To delete a specific expense, click the "Delete" button corresponding to that expense in the table.
++ Select a category from the dropdown list.
++ Enter the amount of the expense in numerical format.
++ Choose the date of the expense using the date picker.
++ Click the "Add" button to add the expense to the list.
++ To delete a specific expense, click the "Delete" button corresponding to that expense in the table.
 
 **Installation:**
 
