@@ -8,11 +8,11 @@ Expense Tracker App is a simple web application designed to help users track the
 
 **Features:**
 
--Input expenses by selecting a category, entering the amount, and specifying the date.
-*Display expenses in a table format with columns for category, amount, date, and an option to delete.
-+Calculate and display the total amount of expenses.
--Delete specific expenses from the list.
-*Responsive design suitable for various screen sizes.
+- Input expenses by selecting a category, entering the amount, and specifying the date.
+* Display expenses in a table format with columns for category, amount, date, and an option to delete.
++ Calculate and display the total amount of expenses.
+- Delete specific expenses from the list.
+* Responsive design suitable for various screen sizes.
 
 **Instructions:**
 
