@@ -1,6 +1,6 @@
 # Expense-Tracker-Web-App
 
-**Expense Tracker App**
+*Expense Tracker App*
 
 **Description:**
 
@@ -24,9 +24,9 @@ Expense Tracker App is a simple web application designed to help users track the
 
 **Installation:**
 
-+Clone the repository to your local machine.
-+Open the project directory in your preferred code editor.
-+Run the index.html file in a web browser to use the Expense Tracker App.
++ Clone the repository to your local machine.
++ Open the project directory in your preferred code editor.
++ Run the index.html file in a web browser to use the Expense Tracker App.
 
 **Contributing:**
 
